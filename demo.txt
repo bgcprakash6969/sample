@@ -1,2 +1,4 @@
 creating a demo file
-Adding my second line to the demo
+<<<<<<< HEAD
+Adding my second line to the demo and demo1
+
